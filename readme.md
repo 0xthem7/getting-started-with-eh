@@ -1,4 +1,4 @@
-This is a curated list of resources for those who want to get started with ethical hacking.
+*This is a curated list of resources for those who want to get started with ethical hacking.*
 
 # The Internet
 ### IP Addresses
@@ -66,6 +66,9 @@ This is a curated list of resources for those who want to get started with ethic
 ### OWASP Top 10 Projects
 * https://owasp.org/www-project-top-ten/
 
+### Pentesting cheatsheet
+* https://book.hacktricks.wiki/en/index.html
+
 ### Tools Used to test Web Application Security
 #### Vulnerability Scanners
 * [Burp Suite](https://portswigger.net/burp)
@@ -80,6 +83,7 @@ This is a curated list of resources for those who want to get started with ethic
 * [Knockpy](https://github.com/guelfoweb/knock)
 * [shuffleDNS](https://github.com/projectdiscovery/shuffledns)
 * [Subfinder](https://github.com/projectdiscovery/subfinder)
+* [Amass](https://github.com/owasp-amass/amass)
 #### Virtual Host Scanner
 * [VHostScan](https://github.com/codingo/VHostScan)
 * [Virtual Host Discovery](https://github.com/jobertabma/virtual-host-discovery)
@@ -98,7 +102,7 @@ This is a curated list of resources for those who want to get started with ethic
 * https://ctftime.org
 * http://pentesterlab.com (paid one)
 * http://pentesteracademy.com (paid one)
-
+* https://www.vulnhub.com/ (self hosted)
 # CTF
 ### Common CTF Practicing Tools & Use-cases
 * https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
@@ -112,9 +116,12 @@ This is a curated list of resources for those who want to get started with ethic
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 * [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
-* [GynvaelEN](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+* [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 * [Reconless](https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ)
 * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained)
+* [STÖK](https://www.youtube.com/@STOKfredrik)
+* [NahamSec](https://www.youtube.com/@NahamSec)
 
 # People to Follow
 * [Michael Gillespie](https://twitter.com/demonslay335) (ransomware , malware related stuff)
@@ -148,3 +155,9 @@ This is a curated list of resources for those who want to get started with ethic
 * [Linux Basics for Hackers](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
 * [Violent Python](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 * [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
+
+
+
+# Mindset
+* [How to Become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#believe1)
+* [So you want to be a web security researcher](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
